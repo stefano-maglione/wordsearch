@@ -1,0 +1,12 @@
+${AnsiBackground.GREEN}
+,--.   ,--.                ,--. ,---.                             ,--.
+|  |   |  | ,---. ,--.--.,-|  |'   .-' ,---.  ,--,--.,--.--. ,---.|  ,---.
+|  |.'.|  || .-. ||  .--' .-. |`.  `-.| .-. :' ,-.  ||  .--'| .--'|  .-.  |
+|   ,'.   |' '-' '|  |  \ `-' |.-'    \   --.\ '-'  ||  |   \ `--.|  | |  |
+'--'   '--' `---' `--'   `---' `-----' `----' `--`--'`--'    `---'`--' `--'
+${application.title} ${application.version}
+Powered by Spring Boot ${spring-boot.version}
+By Stefano Maglione
+${AnsiBackground.DEFAULT}
+
+
